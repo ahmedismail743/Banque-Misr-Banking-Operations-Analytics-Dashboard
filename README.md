@@ -21,4 +21,20 @@ An interactive, multi-page **Power BI** analytics solution built to monitor tran
 * **Microsoft Power BI** — Data modeling, star schema design, interactive report layout, cross-filtering, and custom visual presentation
 * **DAX (Data Analysis Expressions)** — Dynamic KPIs, aggregations, percentages/shares, and custom HTML/CSS/JS-driven visual elements (including Light/Dark theme switching)
 * **Power Query** — Data extraction, cleaning, transformation, and shaping
-* **SQL (MySQL)** — Data querying, validation, and relational preparation
+
+## 🖼️ Dashboard Previews & Data Model
+
+### Overview
+![Overview](P1.png)
+
+### Customers & Accounts
+![Customers & Accounts](P2.png)
+
+### Branches & Channels Performance
+![Branches & Channels Performance](P3.png)
+
+### Loans Portfolio Overview
+![Loans Portfolio Overview](P4.png)
+
+### Data Model
+![Data Modeling](DataModeling.png)
